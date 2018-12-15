@@ -14,7 +14,7 @@ More info on the command-line options in the [Jsonix Wiki](https://github.com/hi
 
 ## Building
 
-[![Docker Build Status](https://img.shields.io/docker/build/thzinc/jsonix-schema-compiler.svg)](https://hub.docker.com/r/thzinc/jsonix-schema-compiler/)
+[![Docker Build Status](https://img.shields.io/docker/automated/thzinc/jsonix-schema-compiler.svg)](https://hub.docker.com/r/thzinc/jsonix-schema-compiler/)
 
 ```bash
 docker build -t tagname .
